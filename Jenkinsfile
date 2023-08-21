@@ -17,3 +17,5 @@ pipeline {
                 git ' https://github.com/aarizsak/devops_real_time_project_1.git'
             }
         }
+    }
+}
